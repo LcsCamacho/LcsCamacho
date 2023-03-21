@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Developer of Systems
 - 💞️ I’m looking to collaborate on innovate 
 - 📫 How to reach me ...
-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@5435376e-ce12-4fd3-a471-9ce1aa694da8/b06c2ecd-8a2c-465f-97fe-9d6b54b9052a.png" /></a>
+- [![lcscamacho's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lcscamacho)](https://github.com/anuraghazra/github-readme-stats)
