@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on innovate 
 - 📫 How to reach me ...
 - [![lcscamacho's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lcscamacho)](https://github.com/anuraghazra/github-readme-stats)
+- ![LcsCamacho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscamacho&show_icons=true&theme=radical)
