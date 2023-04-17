@@ -6,5 +6,5 @@
   [![lcscamacho's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lcscamacho)](https://github.com/anuraghazra/github-readme-stats)
   
 ## Code Stats
-  ![LcsCamacho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscamacho&show_icons=true&theme=radical)
+  ![LcsCamacho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscamacho&show_icons=true)
   [![](https://visitcount.itsvg.in/api?id=lcscamacho&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
