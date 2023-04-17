@@ -9,7 +9,7 @@
   ![LcsCamacho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscamacho&show_icons=true)
   [![](https://visitcount.itsvg.in/api?id=lcscamacho&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
   
- ## Metas
+ ## Metas para o semestre
   - [ ] - Aprender a utilizar a pasta App do Next.js.
   - [ ] - Aprender a utilizar rotas privadas e configurar layouts, Next.js.
   - [ ] - Aprender a criar uma API GraphQL.
