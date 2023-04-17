@@ -10,10 +10,10 @@
   [![](https://visitcount.itsvg.in/api?id=lcscamacho&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
   
  ## Metas
-  [ ] - Aprender a utilizar a pasta App do Next.js.
+  - [ ] - Aprender a utilizar a pasta App do Next.js.
   - [ ] Aprender a utilizar rotas privadas e configurar layouts, Next.js.
-  [ ] - Aprender a criar uma API GraphQL.
-  [ ] - Aprender a utilizar o Zustand, com persistencia de dados.
-  [ ] - Aprender a utilizar o SOLID na criação de APIs
-  [ ] - Aprender a utlizar os testes no back-end
-  [ ] - Aprender a utlizar os testes no front-end
+  - [ ] - Aprender a criar uma API GraphQL.
+  - [ ] - Aprender a utilizar o Zustand, com persistencia de dados.
+  - [ ] - Aprender a utilizar o SOLID na criação de APIs
+  - [ ] - Aprender a utlizar os testes no back-end
+  - [ ] - Aprender a utlizar os testes no front-end
