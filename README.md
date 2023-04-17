@@ -11,7 +11,7 @@
   
  ## Metas
   - [ ] - Aprender a utilizar a pasta App do Next.js.
-  - [ ] Aprender a utilizar rotas privadas e configurar layouts, Next.js.
+  - [ ] - Aprender a utilizar rotas privadas e configurar layouts, Next.js.
   - [ ] - Aprender a criar uma API GraphQL.
   - [ ] - Aprender a utilizar o Zustand, com persistencia de dados.
   - [ ] - Aprender a utilizar o SOLID na criação de APIs
