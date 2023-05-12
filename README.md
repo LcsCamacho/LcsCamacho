@@ -2,10 +2,4 @@
 - 👀 I'm interested in learning new technologies to contribute for problems solving
 - 🌱 I’m currently learning Developer of Systems
 - 💞️ I’m looking to collaborate on innovate 
-## Last 7 days Coding Time 
-  [![lcscamacho's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lcscamacho)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
-  
-## Code Stats
-  ![LcsCamacho's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcscamacho&show_icons=true)
-  [![](https://visitcount.itsvg.in/api?id=lcscamacho&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-  
+
